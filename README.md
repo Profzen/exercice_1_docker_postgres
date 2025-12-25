@@ -355,7 +355,7 @@ Chaque erreur est loggée avec :
 **Codes de sortie garantis :**
 - `Exit Code 0` : pipeline exécuté sans erreur.
 - `Exit Code 1` : échec avec erreur capturée et loggée.
-- Jamais de sortie silencieuse (exit sans log).
+- Jamais de sortie silencieuse .
 
 ### Vérification post-exécution
 
