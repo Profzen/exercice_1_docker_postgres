@@ -141,7 +141,7 @@ docker compose up -d
 # Consulter les logs du service d'ingestion
 docker compose logs ingestion
 
-# Consulter les logs de PostgreSQL
+# Consulter les logs de PostgreSQL .
 docker compose logs postgres
 
 # Consulter tous les logs
